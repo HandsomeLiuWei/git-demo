@@ -15,4 +15,4 @@ hello LiuWei! hello git!
 hello LiuWei! hello git!
 hello LiuWei! hello git!
 hello LiuWei! hello git! master txt
-hello LiuWei! hello git!
+hello LiuWei! hello git! hot -fix test
